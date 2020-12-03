@@ -1,0 +1,9 @@
+name: CatEnv
+
+dependencies:
+  - numpy
+  - neuprint
+  - matplotlib
+  - pandas
+
+
