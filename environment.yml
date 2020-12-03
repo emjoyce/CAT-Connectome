@@ -7,6 +7,6 @@ dependencies:
   - pandas
   - seaborn
   - pip:
-    - neuprint
+    - neuprint-python
 
 
