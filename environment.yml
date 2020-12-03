@@ -1,6 +1,7 @@
 name: CatEnv
 
 dependencies:
+  - python=3.7.0
   - numpy
   - neuprint
   - matplotlib
